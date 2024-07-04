@@ -52,7 +52,8 @@
 2. Необходимо настроить e-mail оповещения об успешной (или нет) выполненной выгрузке данных.
 
 ## Результат:
-Код  рабочего скрипта [здесь]([https://github.com/TrofimovIA/Monetization-Analytics/blob/main/rolling%20retention.sql](https://github.com/TrofimovIA/ETL-SF/blob/main/main.py)).
-   
+[Код рабочего скрипта](https://github.com/TrofimovIA/ETL-SF/blob/main/main.py).
+
+
 
   
